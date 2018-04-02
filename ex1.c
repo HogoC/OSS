@@ -37,6 +37,7 @@ int main()
 		for (i = N; i < M; i += k)
 			output((x+i), k);
 	}	
+	printf("Hellow world");
 	return 0;
 }
 
