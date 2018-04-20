@@ -56,3 +56,4 @@ void output(int *p, int N)
 	for (tmp = p; tmp < p + N; tmp++)
 		printf(" %d", *tmp);
 }
+// git diff -- staged 를 사용하기위해 주석추가
