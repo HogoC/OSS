@@ -1,5 +1,6 @@
 #include <stdio.h>
 void main()
 {
-	printf("Hellow world");
+	printf("Hellow world\n");
+	printf("welcome");
 }
