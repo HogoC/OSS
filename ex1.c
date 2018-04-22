@@ -57,3 +57,4 @@ void output(int *p, int N)
 		printf(" %d", *tmp);
 }
 // git diff -- staged 를 사용하기위해 주석추가
+// ex1.c 수정 4.23일
