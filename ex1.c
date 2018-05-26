@@ -59,4 +59,4 @@ void output(int *p, int N)
 // git diff -- staged 를 사용하기위해 주석추가
 // ex1.c 수정 4.23일
 // ex1.c 수정 5/25일
-// 5/26일
+// 5/26일 어떻게 올려야 하는거지 ?
